@@ -1,2 +1,2 @@
 # bootstrap-tutorial
-Learning new styling framework
+Learning new styling framework.
